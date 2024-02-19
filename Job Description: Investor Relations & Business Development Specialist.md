@@ -3,6 +3,7 @@
 ## About Ubiquity DAO
 Ubiquity DAO, established in 2020, is on a mission to establish the Ubiquity Dollar as the primary stablecoin in the metaverse and DAO work economy. Focused on the Ethereum mainnet and Gnosis Chain, our projects like UbiquiBot (a GitHub bot that gamifies, manages, and handles payments for distributed development teams) and the UbiquiCard (a card that allows for instant real-world spending of earnings) highlight our dedication to empowering DAOs with essential tools and resources. We champion transparent, community-driven development to make DeFi universally accessible. Ubiquity DAO has successfully completed a pre-seed funding round, led by Animoca Brands, along with Merit Circle, Momentum6, and Ascensive Assets, reaching a valuation of $20 million.
 
+
 ## About The Role
 Ubiquity DAO seeks a focused Investor Relations & Business Development Specialist to spearhead strategic partnerships and secure essential agreements. 
 
