@@ -31,4 +31,4 @@ Ubiquity DAO seeks a focused Investor Relations & Business Development Specialis
 - Unlimited paid time off based on current workload and performance.
 - Flexible work hours with a focus on results.
 - Token shares plus bonuses.
-- Pay Range: $80k - $120k (All-inclusive).
+- Pay Range: $80k - $120k in Salary plus the incentives based on the outcome.
