@@ -35,6 +35,7 @@
 - **Japanese**: Full professional fluency
 
 ## Contact
-- [LinkedIn Profile](https://www.linkedin.com/in/jihoon-yi-580134227/details/experience/)
+- [LinkedIn Profile] https://www.linkedin.com/in/jihoon-yi-580134227/)
 
 Next Steps : Phone interview & review previous IR experiences
+
