@@ -22,6 +22,7 @@ Specifically tailored for recruiting a TypeScript Developer at Ubiquity DAO.
 ### 2. Job Posting and Promotion
 - **Objective**: Maximize the reach and visibility of the job posting.
 - **Action**: Post the job on platforms like [LinkedIn](https://www.linkedin.com/hiring/jobs/3807440170/detail/) and [Rocketpunch](https://www.rocketpunch.com/jobs/149182/TypeScript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0Solidity-%EA%B0%9C%EB%B0%9C%EC%9E%90).
+- **Result** : Spent about $400 each on promoting the TypeScript and IR&BD posting. Fernando and B both applied to Linkedin. It seems that Linkedin job posting with advertisements is the most effective tool to target ideal candidates. 
 
 ### 3. Candidate Sourcing: Utilizing WeConnect for LinkedIn Outreach
 - **Objective**: Efficiently connect with TypeScript Developer candidates.
@@ -29,6 +30,7 @@ Specifically tailored for recruiting a TypeScript Developer at Ubiquity DAO.
   - Sign up on WeConnect.
   - Link LinkedIn account and set up targeted search filters.
   - Launch personalized messaging campaigns.
+  - - **Result** : Didn't get much tractions from this approach 500 outreach but less than 3 replies.
 
 ### 4. Screening Process: Candidate-Initiated Task Selection in Ubiquity DevPool
 - **Objective**: Evaluate technical skills in a practical context.
