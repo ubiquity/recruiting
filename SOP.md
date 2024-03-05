@@ -13,7 +13,6 @@ Specifically tailored for recruiting a TypeScript Developer at Ubiquity DAO.
 - **Identifying Recruitment Platforms**: Use the following platforms for job postings:
   - Decipher - [decipher.ac](http://decipher.ac)
   - Blockchain at Yonsei - Blockchain at Yonsei
-  - ... _(list continues with other platforms)_ ...
 - **Finding Crypto-Related Communities**: Engage with communities like Rethinkable - [Rethinkable](https://rethinkable.xyz/) and others from the detailed list.
 - **Identifying Local Crypto Events**: Leverage events such as ethseoul - [ethseoul.org](https://www.ethseoul.org/).
 - **Automated Messaging for Follow-up**: Develop automated messages using [this guide](https://docs.google.com/document/d/1m_JZpr3h0Do2rxhG7sWnsvu6R4obNT__8sRUQ2oOWSg/edit).
